@@ -4,7 +4,7 @@
 
 Use the D3 library to read in samples.json.
 
-Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found.
+### 2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found.
 
 Use sample_values as the values for the bar chart.
 
