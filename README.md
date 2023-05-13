@@ -24,3 +24,10 @@ Use otu_labels for the text values.
 
 <img width="532" alt="Displaychart" src="https://github.com/Cheryl277/belly-button-challenge/assets/120348065/a1d1bb93-c4d8-4c8f-9a96-e287fd0d4fb6">
 
+### 4. Display the sample metadata, i.e., an individual's demographic information, display each key-value pair from the metadata JSON object somewhere on the page.
+
+<img width="202" alt="displaykey" src="https://github.com/Cheryl277/belly-button-challenge/assets/120348065/d348bc0c-f644-45cc-ac4b-1d949f062bfb">
+
+
+
+
