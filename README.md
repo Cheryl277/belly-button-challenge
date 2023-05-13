@@ -28,6 +28,7 @@ Use otu_labels for the text values.
 
 <img width="202" alt="displaykey" src="https://github.com/Cheryl277/belly-button-challenge/assets/120348065/d348bc0c-f644-45cc-ac4b-1d949f062bfb">
 
-
+#Final
+<img width="573" alt="211166335-37c828f1-4ac2-4265-9280-9ef0c6850b3a" src="https://github.com/Cheryl277/belly-button-challenge/assets/120348065/12aacc98-a1ad-4130-95ae-6a84ca8e80ac">
 
 
