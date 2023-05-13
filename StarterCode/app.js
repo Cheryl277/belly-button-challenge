@@ -155,7 +155,7 @@ function gauge(selectedValue) {
         let trace = [{
             domain: { x: [0, 1], y: [0, 1] },
             value: obj.wfreq,
-            title: { text: "<b>Belly Button Washing Frequency</b><br>Scrubs per Week", font: {size: 24}},
+            title: { text: "<b>Belly Button Washing Frequency</b><br>Scrubs per Week", font: {size: 20}},
             type: "indicator", 
             mode: "gauge+number",
             gauge: {
