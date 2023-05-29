@@ -30,6 +30,7 @@ Use otu_labels for the text values.
 
 ### Final
 
-<img width="573" alt="211166335-37c828f1-4ac2-4265-9280-9ef0c6850b3a" src="https://github.com/Cheryl277/belly-button-challenge/assets/120348065/12aacc98-a1ad-4130-95ae-6a84ca8e80ac">
+<img width="800" alt="Screen Shot 2023-05-29 at 6 06 47 PM" src="https://github.com/Cheryl277/belly-button-challenge/assets/120348065/0eba54ed-b16b-4da2-b88c-3178bfe900c0">
+
 
 
