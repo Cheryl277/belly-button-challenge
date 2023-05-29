@@ -28,6 +28,13 @@ Use otu_labels for the text values.
 
 <img width="202" alt="displaykey" src="https://github.com/Cheryl277/belly-button-challenge/assets/120348065/d348bc0c-f644-45cc-ac4b-1d949f062bfb">
 
+
+### Resources used: 
+JavaScript
+Plotly.js
+HTML/CSS
+
+
 ### Final
 
 <img width="800" alt="Screen Shot 2023-05-29 at 6 06 47 PM" src="https://github.com/Cheryl277/belly-button-challenge/assets/120348065/0eba54ed-b16b-4da2-b88c-3178bfe900c0">
